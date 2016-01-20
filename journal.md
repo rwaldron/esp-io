@@ -6,6 +6,7 @@
 - I want auto connection when discovery phase determines only one ESP is available.
   - If connecting to multiple ESP8266, it's fair to expect user programs to provide discovery/identity information
 - I want it to behave the same as other IO plugins w/r to connection: this must be addressed as part of the instance initialization phase (ie. as a condition of ready event completion). I appreciate the efforts that came before this, but they are not acceptable w/r to ease of use. There is no way that anyone should be expected write programs that require initializing the transport, io plugin _AND_ board instances.
+- I don't want users to be required to edit C code to make network configurations. If that seems necessary, then we can live with it, but ideally: no thanks.
 - I want this list to grow. 
 
 ## Questions
