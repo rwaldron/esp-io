@@ -9,6 +9,12 @@
 - I don't want users to be required to edit C code to make network configurations. If that seems necessary, then we can live with it, but ideally: no thanks.
 - I want this list to grow. 
 
+## Do NOT Want
+
+- I refuse to continue overloading the existing firmata.js
+  - It may be that an instance of firmata.js is used by esp-io internally, but I'm not going to agree to further overloading that library. Sorry, I'm not sorry. 
+
+
 ## Questions
 
 - With [esp8266/Arduino](https://github.com/esp8266/Arduino), we can support a "flavor" of Firmata that looks like StandardFirmata, **but with a different com layer**
