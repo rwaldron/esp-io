@@ -41,6 +41,7 @@ Boards:
   - `AFH`: ✓
   - `SFT`: ✓
 
+![](http://www.esp8266.com/wiki/lib/exe/fetch.php?media=pin_functions.png)
 
 
 ## Reviewed
