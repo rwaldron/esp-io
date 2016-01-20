@@ -1,0 +1,19 @@
+{
+  "name": "esp-io",
+  "version": "0.0.1",
+  "description": "ESP-IO is an IO Plugin that enables writing JavaScript Robotics programs with Johnny-Five, which interact with ESP8266 boards.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rwaldron/esp-io.git"
+  },
+  "author": "Rick Waldron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rwaldron/esp-io/issues"
+  },
+  "homepage": "https://github.com/rwaldron/esp-io#readme"
+}
