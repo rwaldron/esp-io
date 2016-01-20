@@ -53,6 +53,7 @@ Boards:
 
 ## Review Needed
 
+- https://github.com/knovoselic/Arduino/blob/dns_server_improvements/hardware/esp8266com/esp8266/libraries/DNSServer/src/DNSServer.cpp#L109-L123
 - https://github.com/sparkfun/Rogue_Router (might be useful?)
 
 ## Issues Encountered
